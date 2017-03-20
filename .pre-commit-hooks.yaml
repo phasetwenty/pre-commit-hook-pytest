@@ -1,0 +1,7 @@
+id: pytest
+name: pytest
+description: Runs the pytest test framework
+entry: run-pytest.sh
+files: \.py$
+language: script
+minimum_pre_commit_version: 0.6.7
